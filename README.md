@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Vishal<br>🔭 I’m currently working on System Design<br>🤝 I’m looking to collaborate on Web Development<br>📫 How to reach me vishalsinghjune07@gmail.com
+# About Me:
+ Hi, I'm Vishal<br> I’m currently working on System Design<br>
 
 
 # 💻 Tech Stack:
